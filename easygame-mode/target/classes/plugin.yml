@@ -1,0 +1,3 @@
+name: easygame-mode
+version: '1.0.0'
+main: mask.inc.easygamemode.Easygame_mode
