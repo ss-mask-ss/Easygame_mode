@@ -1,4 +1,4 @@
-package mask.inc.easygamemode;
+package mask.lab.easygamemode;
 
 import org.bukkit.GameMode;
 import org.bukkit.command.Command;
